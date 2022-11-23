@@ -1,0 +1,20 @@
+form{
+    display: flex;
+    justify-content: space-between;
+}
+
+.leftColumn{
+    /* display: flex; */
+    /* flex-direction: column; */
+    width: 45%;
+    flex-direction: column;
+    display: flex;
+  
+}
+
+.rightColumn{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 45%;
+}
